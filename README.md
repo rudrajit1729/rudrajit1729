@@ -23,6 +23,7 @@
 <br></br>
 
 An engineering student and a software developer 👨‍💻 from India.
+
 Passionate about learning and working with latest technologies, keen interest towards research work, and a deep rooted fascination for space science & physics.
 
  - 🔭 I’m currently working on AI algorithms, and full stack web development.
