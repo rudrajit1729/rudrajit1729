@@ -35,8 +35,8 @@ Passionate about learning and working with latest technologies, keen interest to
 
 <p align="center">
 <a href="https://github.com/rudrajit1729">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrajit1729&layout=compact&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrajit1729&show_icons=true&theme=radical" alt="Rudrajit's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrajit1729&layout=compact&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrajit1729&show_icons=true&theme=highcontrast" alt="Rudrajit's github stats"/>
 </a></p>
 
 <!-- <p align="center">
