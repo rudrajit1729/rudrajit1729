@@ -33,14 +33,14 @@ Passionate about learning and working with latest technologies, keen interest to
 
  - 🌱 Github Stats
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/rudrajit1729">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrajit1729&layout=compact&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrajit1729&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Rudrajit's github stats"/>
-</a></p>
+</a></p> -->
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/rudrajit1729">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrajit1729&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrajit1729&count_private=true&show_icons=true&bg_color=315,48c6ef,6f86d6&title_color=ffffff&text_color=ffffff&icon_color=ee609c" alt="Rudrajit's github stats"/>
-</a></p> -->
+</a></p>
