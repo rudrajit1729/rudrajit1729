@@ -22,11 +22,11 @@
 </a>
 <br></br>
 
-An engineering student and a software developer 👨‍💻 from India.
+An engineering student, researcher and a software developer 👨‍💻 from India.
 
-Passionate about learning and working with latest technologies, keen interest towards research work, and a deep rooted fascination for space science & physics.
+Passionate about learning and working with latest technologies, keen interest towards research work, and a deep rooted fascination for space.
 
- - 🔭 I’m currently working on AI algorithms, and full stack web development.
+ - 🔭 I’m currently working at the intersections of AI, ML, DL, Data Mining, Image Processing and Computer Vision.
  - 💬 Ask me about: Tech, Algorithms, Quantum Physics, Bollywood, Comics, Chess
  - 📫 How to reach me: Any platform you are comfortable with, links are above 🔝
  - 😄 Pronouns: <code><img src="https://github.com/rudrajit1729/rudrajit1729/blob/master/static/pronouns/hehim.svg" alt="He/Him" style="vertical-align:top margin:6px 4px" height="21"></code>
