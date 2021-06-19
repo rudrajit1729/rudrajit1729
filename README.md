@@ -6,6 +6,9 @@
 <a href="https://github.com/rudrajit1729">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://scholar.google.com/citations?user=Pk9dKAsAAAAJ&hl=en&oi=ao">
+  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />
+</a>
 <a href="mailto:rudrajit1729@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
