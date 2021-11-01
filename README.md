@@ -15,11 +15,11 @@
 <a href="https://www.instagram.com/rudrajit_/">
   <img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rudrajit.choudhuri/">
+<!-- <a href="https://www.facebook.com/rudrajit.choudhuri/">
   <img align="left" alt=" Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.codechef.com/users/rudrajit1729">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a> -->
+<!-- <a href="https://www.codechef.com/users/rudrajit1729">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" /> -->
 <a href="https://www.hackerrank.com/rudrajit1729">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
@@ -27,7 +27,8 @@
 
 An engineering student, researcher and a software developer 👨‍💻 from India.
 
-Working at the intersections of image processing, statistical unsupervised learning, deep learning and quantum machine learning aimed at developing novel algorithms in biomedical, remote sensing and cosomology domain.
+My current work is focused at the intersections of statistics, machine learning, and quantum computing. I am broadly interested in developing robust and smart software solutions to solve real world problems in interdisciplinary areas of science and technology.
+
 
  - 💬 Ask me about: Tech, Algorithms, Quantum Physics, Bollywood, Comics, Chess
  - 📫 How to reach me: Any platform you are comfortable with, links are above 🔝
