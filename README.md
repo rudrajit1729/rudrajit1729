@@ -27,13 +27,12 @@
 
 An engineering student, researcher and a software developer 👨‍💻 from India.
 
-My current work is focused at the intersections of statistics, machine learning, deep learning and quantum computing. I am broadly interested in developing robust and smart software solutions to solve real world problems in interdisciplinary areas of science and technology.
+My current work is focused at the intersections of image processing, machine learning, deep learning and quantum computing. I am broadly interested in developing robust and smart software solutions to solve real world problems in interdisciplinary areas of science and technology.
 
 
  - 💬 Ask me about: Tech, Algorithms, Quantum Physics, Bollywood, Comics, Chess
  - 📫 How to reach me: Any platform you are comfortable with, links are above 🔝
  - 😄 Pronouns: <code><img src="https://github.com/rudrajit1729/rudrajit1729/blob/master/static/pronouns/hehim.svg" alt="He/Him" style="vertical-align:top margin:6px 4px" height="21"></code>
- - ⚡ Fun Fact: I like my music loud when wired to my system. 
 
 - 🌱 Github Stats
 
