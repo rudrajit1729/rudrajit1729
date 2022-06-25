@@ -1,4 +1,4 @@
-# Hey, I'm Rudrajit <img src="https://raw.githubusercontent.com/rudrajit1729/rudrajit1729/master/static/gifs/Hi.gif" width="30px">
+# Hey, I'm Rudrajit <img src="https://raw.githubusercontent.com/rudrajit1729/rudrajit1729/master/static/gifs/Hi.gif" width="30px" height="30px">
 
 <a href="https://www.linkedin.com/in/rudrajit-choudhuri-bb83551b1/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
