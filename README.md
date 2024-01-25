@@ -25,7 +25,7 @@
 </a> -->
 <br></br>
 
-I am a PhD Student in School of EECS, at Oregon State University. 
+I am a PhD Student in the school of EECS, at Oregon State University. 
 
 My research focuses on human factors in software engineering (SE), aiming to understand human cognitive processes in (Software Engineering/CS education). My goal is to build inclusive technical support to help professionals and end-users become more efficient and less error-prone.
 
