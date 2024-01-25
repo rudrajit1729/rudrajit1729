@@ -25,11 +25,17 @@
 </a> -->
 <br></br>
 
-An engineer, researcher and a software developer 👨‍💻 originally from India.
+I am a PhD Student in School of EECS, at Oregon State University. 
 
-My current work is focused at the intersections of Software Engineering, Human-AI interaction, Image Processing and Quantum Computing. 
+My research focuses on human factors in software engineering (SE), aiming to understand human cognitive processes in (Software Engineering/CS education). My goal is to build inclusive technical support to help professionals and end-users become more efficient and less error-prone.
 
- - 💬 Ask me about: Tech, Algorithms, Quantum Physics, Bollywood, Comics, Chess
+I am currently working at the intersections of SE and Human-AI Interaction, for integrating generative AI across developer workflows; taking human factors into account. 
+
+My previous work is at the intersections of machine learning, statistics, and image processing for developing algorithms in the field of biomedical image processing.
+
+
+
+ - 💬 Ask me about: HCI, AI Tech, Algorithms, Image Processing, Bollywood
  - 📫 How to reach me: Any platform you are comfortable with, links are above 🔝
  - 😄 Pronouns: <code><img src="https://github.com/rudrajit1729/rudrajit1729/blob/master/static/pronouns/hehim.svg" alt="He/Him" style="vertical-align:top margin:6px 4px" height="21"></code>
 
