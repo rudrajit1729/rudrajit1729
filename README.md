@@ -25,7 +25,7 @@
 </a> -->
 <br></br>
 
-I am a PhD Student in the school of EECS, at Oregon State University. 
+I am a PhD Student in the School of EECS, at Oregon State University. 
 
 My research focuses on human factors in software engineering (SE), aiming to understand human cognitive processes in (Software Engineering/CS education). My goal is to build inclusive technical support to help professionals and end-users become more efficient and less error-prone.
 
@@ -35,11 +35,11 @@ My previous work is at the intersections of machine learning, statistics, and im
 
 
 
- - 💬 Ask me about: HCI, AI Tech, Algorithms, Image Processing, Bollywood
+ - 💬 Ask me about: HCI, AI, SE, Tech, Statistics, Image Processing, Bollywood
  - 📫 How to reach me: Any platform you are comfortable with, links are above 🔝
  - 😄 Pronouns: <code><img src="https://github.com/rudrajit1729/rudrajit1729/blob/master/static/pronouns/hehim.svg" alt="He/Him" style="vertical-align:top margin:6px 4px" height="21"></code>
 
-- 🌱 Github Stats
+<!--- 🌱 Github Stats
 
 <p align="center">
 <a href="https://github.com/rudrajit1729">
