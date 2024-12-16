@@ -1,4 +1,4 @@
-# Hey, I'm Rudrajit <img src="https://raw.githubusercontent.com/rudrajit1729/rudrajit1729/master/static/gifs/Hi.gif" width="30px" height="30px">
+# Hi, I'm Rudrajit <img src="https://raw.githubusercontent.com/rudrajit1729/rudrajit1729/master/static/gifs/Hi.gif" width="30px" height="30px">
 
 <a href="https://www.linkedin.com/in/rudrajit-choudhuri-bb83551b1/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,18 +25,13 @@
 </a> -->
 <br></br>
 
-I am a PhD Student in the School of EECS, at Oregon State University. 
+I’m Rudrajit (Rudy), a third-year Ph.D. student at [Oregon State University](https://engineering.oregonstate.edu/EECS), advised by [Dr. Anita Sarma](https://web.engr.oregonstate.edu/~sarmaa/). My research lies at the intersections of Human-Computer Interaction (HCI), Software Engineering (SE), Cognitive Science, and Artificial Intelligence (AI). Currently, I study (1) **cognitive processes that influence human-AI interactions in SE**, and (2) **methods for designing human-centered interfaces for AI tools to improve user-experiences in AI-assisted software development**.
 
-My research focuses on human factors in software engineering (SE), aiming to understand human cognitive processes in (Software Engineering/CS education). My goal is to build inclusive technical support to help professionals and end-users become more efficient and less error-prone.
-
-I am currently working at the intersections of SE and Human-AI Interaction, for integrating generative AI across developer workflows; taking human factors into account. 
-
-My previous work is at the intersections of machine learning, statistics, and image processing for developing algorithms in the field of biomedical image processing.
+My ultimate goal is to empower developers and end-users with trustworthy and inclusive AI support, enabling them to work more efficiently, maintain control over AI, and minimize errors
 
 
-
- - 💬 Ask me about: HCI, AI, SE, Tech, Statistics, Image Processing, Bollywood
- - 📫 How to reach me: Any platform you are comfortable with, links are above 🔝
+ - 💬 Ask me about: HCI, AI, SE, Tech, Statistics, Image Processing
+ - 📫 How to reach me: Any platform you are comfortable with, links are on my [website](https://rudrajit1729.github.io/)
  - 😄 Pronouns: <code><img src="https://github.com/rudrajit1729/rudrajit1729/blob/master/static/pronouns/hehim.svg" alt="He/Him" style="vertical-align:top margin:6px 4px" height="21"></code>
 
 <!--- 🌱 Github Stats
